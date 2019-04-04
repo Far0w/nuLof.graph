@@ -1,1 +1,4 @@
-import nuLof_graph_fct
+import nuLof_graph_fct as nL
+
+
+
