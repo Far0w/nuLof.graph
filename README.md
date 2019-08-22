@@ -1,12 +1,16 @@
 # nuLof_graph
 
 
-Bibliothèque nécessaires : 
+BibliothÃ¨que nÃ©cessaires : 
 	- numpy
 
-Tu n'as pas de courbe pour ton dernier projet ? Tu as une idée de la courbe que tu veux ? 
-Utilise nuLof_Graph, pour créer un maximum de courbes expérimentales sans expérimenter une seule fois ! Si ça c'est pas beau !
+Tu n'as pas de courbe pour ton dernier projet ? Tu as une idÃ©e de la courbe que tu veux ? 
+Utilise nuLof_Graph, pour crÃ©er un maximum de courbes expÃ©rimentales sans expÃ©rimenter une seule fois ! Si Ã§a c'est pas beau !
 
-Created by Florian F.
+Testimonials : 
+
+	- "J'ai eu 17,4 Ã  mon TIPE en crÃ©ant de fausses expÃ©riences, merci nuLof_graph !"
 
 DISCLAIMER :
+
+Cheating is bad
