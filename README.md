@@ -9,7 +9,6 @@ Utilise nuLof_Graph, pour créer un maximum de courbes expérimentales sans exp�
 
 Testimonials : 
 
-	- "J'ai eu 17,4 à mon TIPE en créant de fausses expériences, merci nuLof_graph !"
 
 DISCLAIMER :
 
